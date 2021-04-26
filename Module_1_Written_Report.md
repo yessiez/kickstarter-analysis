@@ -23,7 +23,7 @@ The biggest challenge I faced was writing this report. I was unsure about how te
 ## Results
 
 What are two conclusions you can draw about the Outcomes based on Launch Date?
--Two conclusions I can draw about the outcomes based on launch date are that the month that launches the most successful theatre campaigns is May and there is an increase in successful theatre campaigns between March and May that steadily falls through year end.
+- Two conclusions I can draw about the outcomes based on launch date are that the month that launches the most successful theatre campaigns is May and there is an increase in successful theatre campaigns between March and May that steadily falls through year end.
 
 What can you conclude about the Outcomes based on Goals?
 - I can conclude that the relationship between the outcomes based on goals are inversely correlated. 
