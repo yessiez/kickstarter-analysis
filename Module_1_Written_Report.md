@@ -22,14 +22,14 @@ The biggest challenge I faced was writing this report. I was unsure about how te
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Two conclusions I can draw about the outcomes based on launch date are that the month that launches the most successful theatre campaigns is May and there is an increase in successful theatre campaigns between March and May that steadily falls through year end.
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+-Two conclusions I can draw about the outcomes based on launch date are that the month that launches the most successful theatre campaigns is May and there is an increase in successful theatre campaigns between March and May that steadily falls through year end.
 
-- What can you conclude about the Outcomes based on Goals?
-I can conclude that the relationship between the outcomes based on goals are inversely correlated. 
+What can you conclude about the Outcomes based on Goals?
+- I can conclude that the relationship between the outcomes based on goals are inversely correlated. 
 
-- What are some limitations of this dataset?
-Some limitations of this dataset are possible sampling and coverage errors. Additional limitations include measure used to collect the data, and access. 
+What are some limitations of this dataset?
+- Some limitations of this dataset are possible sampling and coverage errors. Additional limitations include measure used to collect the data, and access. 
 
-- What are some other possible tables and/or graphs that we could create?
-We could create a stacked column chart to visualize outcomes based on goals. Another chart we could create is a pie chart to visualize theatre outcomes based on launch date.
+What are some other possible tables and/or graphs that we could create?
+- We could create a stacked column chart to visualize outcomes based on goals. Another chart we could create is a pie chart to visualize theatre outcomes based on launch date.
